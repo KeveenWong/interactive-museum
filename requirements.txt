@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+panda3d
+pyautogui
+ursina
+pygetwindow
+pyaudio
+speechrecognition
+openai
+python-dotenv
