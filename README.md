@@ -2,6 +2,14 @@
 
 An immersive, hands-free interactive art gallery experience powered by computer vision and AI. This project demonstrates the potential of accessible technology using only a webcam to create engaging digital art experiences.
 
+## 📷 Screenshots
+<img width="420" height="270" alt="image" src="https://github.com/user-attachments/assets/c5a9dcdc-4a3f-40c3-8dc6-3229d46f1309" /> <img width="420" height="270" alt="image" src="https://github.com/user-attachments/assets/1cded4be-1523-4cde-9704-aca069002594" />
+
+<img width="870" height="528" alt="image" src="https://github.com/user-attachments/assets/a91d2182-99ba-4453-b400-2dbbf805fd8d" />
+
+<img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/d4f1dabe-3832-4863-b631-b8bf23a4ff46" />
+
+
 ## 🎯 Objective
 
 - **Create an immersive, hands-free interactive art gallery experience** using computer vision and AI
